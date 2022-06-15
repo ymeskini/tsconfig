@@ -1,6 +1,11 @@
 {
-  "name": "tsconfig-ym",
+  "name": "@ymeskini/tsconfig",
   "version": "1.0.0",
-  "main": "index.js",
+	"main": "tsconfig.json",
+  "repository": "ymeskini/tsconfig",
+  "author": "ymeskini",
+  "files": [
+		"tsconfig.json"
+	],
   "license": "MIT"
 }

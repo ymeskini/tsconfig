@@ -18,7 +18,7 @@ npm install --save-dev @ymeskini/tsconfig
 {
   "extends": "@ymeskini/tsconfig",
   "compilerOptions": {
-    "outDir": "dist"
+    // ... custom config
   }
 }
 ```
